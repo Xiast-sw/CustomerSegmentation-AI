@@ -1,9 +1,9 @@
-# Müşteri Segmentasyonu Yapay Zekası
+# Customer Segmentation AI
 
-**CustomerSegmentation-AI**, müşterileri satın alma davranışlarına göre segmentlere ayırmayı amaçlayan bir makine öğrenmesi projesidir. Bu proje, müşterileri farklı segmentlere sınıflandırmak için kümeleme algoritmalarını kullanarak, pazarlama stratejilerini iyileştirme ve iş içgörülerini geliştirme sağlar.
+**CustomerSegmentation-AI** is a machine learning project aimed at segmenting customers based on their purchasing behavior. This project uses clustering algorithms to classify customers into different segments, enabling improved marketing strategies and better business insights.
 
-## Özellikler
-- Veri Ön İşleme
-- K-Means ile Kümeleme
-- Müşteri segmentlerinin görselleştirilmesi
-- İçgörü oluşturma
+## Features
+- Data Preprocessing
+- K-Means Clustering
+- Visualization of Customer Segments
+- Insight Generation
