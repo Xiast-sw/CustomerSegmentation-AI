@@ -156,6 +156,3 @@ Download from [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-seg
 ## 📝 License
 
 This project is licensed under the MIT License.
-
----
-
